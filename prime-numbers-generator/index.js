@@ -4,7 +4,6 @@
 // declaration...
 let input = document.getElementById("input");
 let result = document.getElementById("result");
-let span = document.createElement("span");
 
 // isPrime function check if number is prime or not
 function isPrime(number){
