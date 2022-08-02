@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "expres": "^0.0.5",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0",
+    "mongoose": "^6.5.0"
+  },
+  "name": "dive-in-node",
+  "version": "1.0.0",
+  "description": "seek to be one of top 100 js developer in the world",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "NodeJs",
+    "ExpressJS",
+    "JS",
+    "JSMaster"
+  ],
+  "author": "SallamRady",
+  "license": "ISC"
+}
